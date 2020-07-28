@@ -6,8 +6,11 @@
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/l1NyE3cBBI3KS0r5Td/giphy.gif" width="300" height="300" />
 </p>
-Apart from being nerd and a book worm I love to enjoy the time by pursuing hobbies as a part time job. Currently pursuing Bachelors Degree in Information Technology.
+Apart from being nerd and a book worm I love to enjoy the time by pursuing hobbies as a part time job. 
+Currently pursuing Bachelors Degree in Information Technology.
 No worries, scroll a little you'll get that to know different projects I've been working on.
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
