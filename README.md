@@ -1,6 +1,6 @@
 ### Hi there, I'm Kashish;  👋 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
   
-#I'm a student who is passionate about making different UI/Ux Designs and also trying my hand on Content Writing as well as short stories.
+<p>I'm a student who is passionate about making different UI/Ux Designs and also trying my hand on Content Writing as well as short stories.</p>
 ![Check Out My Part Time Blogs/Stories!]
 <a href="https://twentiesunscripted020.wordpress.com">Click  Here</a>
 <p align="center">
@@ -10,9 +10,10 @@ Apart from being nerd and a book worm I love to enjoy the time by pursuing hobbi
 No worries, scroll a little you'll get that to know different projects I've been working on.
 
 <p align="center">
- <img align="left" src="https://media.giphy.com/media/26ufq8k6RuyKjmdTW/giphy.gif" width="75" height="75" />
+ <img align="left" src="https://media.giphy.com/media/26ufq8k6RuyKjmdTW/giphy.gif" width="75" height="75" />Oh! God you are still reading. Cool, Welcome to my porfile; I design and code beautifully simple things, and I love what I do!
  </p>
-Oh! God you are still reading. Cool, Welcome to my porfile; I design and code beautifully simple things, and I love what I do!
+ 
+
 
 <!--
 **kashish020/kashish020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
