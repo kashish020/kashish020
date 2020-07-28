@@ -1,7 +1,7 @@
 ### Hi there, I'm Kashish;  👋 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
   
-#####I'm a student who is passionate about making different UI/Ux Designs and also trying my hand on Content Writing as well as short stories.
-[![Check Out My Part Time Blogs/Stories!](https://twentiesunscripted020.wordpress.com/)]
+#I'm a student who is passionate about making different UI/Ux Designs and also trying my hand on Content Writing as well as short stories.
+![Check Out My Part Time Blogs/Stories!](https://twentiesunscripted020.wordpress.com)
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/l1NyE3cBBI3KS0r5Td/giphy.gif" width="300" height="300" />
 </p>
